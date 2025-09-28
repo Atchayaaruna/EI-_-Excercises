@@ -3,14 +3,17 @@ Exercise 1:
 
 Behavioral:
 Interpreter → Turn text commands into actions (example: a robot following commands).
+
 Memento → Save and go back to an earlier state (example: undo in a text editor).
 
 Creational:
 Prototype → Make copies instead of building from scratch (example: game characters).
+
 Builder → Build something step by step (example: custom computers).
 
 Structural:
 Flyweight → Share objects to save memory (example: lots of trees in a forest).
+
 Composite → Treat one item or a group the same way (example: a company’s hierarchy).
 
 Exercise 2:
