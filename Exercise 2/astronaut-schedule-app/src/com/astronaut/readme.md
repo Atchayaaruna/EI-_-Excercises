@@ -9,8 +9,10 @@ Design Patterns used is
 3. Observer Pattern: Notify users of task conflicts or updates.
 List of Commands:
 <img width="461" height="212" alt="a" src="https://github.com/user-attachments/assets/da1a61db-8506-4276-bb20-d8df6d0fa3d5" />
+
 Add Task:
 <img width="405" height="125" alt="add" src="https://github.com/user-attachments/assets/80c2596b-37ad-484c-8777-c1f444ed339b" />
+
 Task can't add when conflict between time occurs:
 <img width="520" height="123" alt="addno" src="https://github.com/user-attachments/assets/9ed25fc4-b89c-414a-b22d-14b182f8631f" />
 Invalid time format:
@@ -30,6 +32,7 @@ Task not found:
 <img width="401" height="75" alt="image" src="https://github.com/user-attachments/assets/aef49a57-6dcf-4cb5-9d1c-c54dacd510e7" />
 Exit:Quit the Astronaut Daily Schedule Organizer Application
 <img width="355" height="48" alt="exit" src="https://github.com/user-attachments/assets/4cde86b1-4c24-4bd9-a940-5f4f37f295fd" />
+
 
 
 
