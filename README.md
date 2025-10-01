@@ -1,22 +1,19 @@
 # EI_Excercises
 Exercise 1:
 
-Behavioral:  
-“How objects communicate and handle responsibilities.”
+Behavioral:  “How objects communicate and handle responsibilities.”
 
 Interpreter → Turn text commands into actions (example: a robot following commands).
 
 Memento → Save and go back to an earlier state (example: undo in a text editor).
 
-Creational:
-“How objects are created step by step or by cloning.”
+Creational:   “How objects are created step by step or by cloning.”
 
 Prototype → Make copies instead of building from scratch (example: game characters).
 
 Builder → Build something step by step (example: custom computers).
 
-Structural:
-“How objects are combined or connected to form bigger structures.”
+Structural:   “How objects are combined or connected to form bigger structures.”
 
 Flyweight → Share objects to save memory (example: lots of trees in a forest).
 
